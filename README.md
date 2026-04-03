@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on [learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io)
 - ❤️ I love to tweak my homelab
 
-Contributions graph are not accurate, I moved my personal repository on a self-hosted [Forgejo](https://forgejo.org/)
+Contributions graph is not accurate, I moved my personal repository on a self-hosted [Forgejo](https://forgejo.org/)
 
 <!--
 **pierluc-codes/pierluc-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
