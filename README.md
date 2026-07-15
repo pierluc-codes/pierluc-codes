@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about [software experiments](https://app.thestorygraph.com/books/7745a9d6-2f20-4569-9bf6-bc13c5e3e433)
 - 👯 I’m looking to collaborate on [learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io)
 - ❤️ I love to tweak my homelab
-- 💬 Ask me about my love for literature
+- 📚 I am currently reading [Le Comte de Monte-Cristo](https://app.thestorygraph.com/books/abd1c172-fbba-469d-a99c-7202a44a8abe) and [The Proud Tower](https://app.thestorygraph.com/books/0b2d00bf-94c4-4fab-a303-615ba01041b6)
 
 Contributions graph is not accurate, I moved my personal repository on a self-hosted [Forgejo](https://forgejo.org/)
 
