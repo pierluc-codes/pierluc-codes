@@ -1,9 +1,10 @@
-### Hello 👋
+### Hi 👋
 
-- 🔭 I’m currently working on data pipeline at [Optable](https://github.com/orgs/Optable)
+- 🔭 I’m currently working on contextual intelligence at [Optable](https://github.com/orgs/Optable)
 - 🌱 I’m currently learning about [software experiments](https://app.thestorygraph.com/books/7745a9d6-2f20-4569-9bf6-bc13c5e3e433)
 - 👯 I’m looking to collaborate on [learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io)
 - ❤️ I love to tweak my homelab
+- 💬 Ask me about my love for literature
 
 Contributions graph is not accurate, I moved my personal repository on a self-hosted [Forgejo](https://forgejo.org/)
 
